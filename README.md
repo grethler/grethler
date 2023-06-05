@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
 - 🔭 I’m currently working on random stuff
 - 🌱 I’m currently learning computer science
