@@ -13,6 +13,6 @@
 <h2>Repositories</h2>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grethler&repo=domainer&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grethler&repo=logly&theme=buefy" />
 </div>
