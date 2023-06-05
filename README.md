@@ -5,7 +5,7 @@
 - 📫 How to reach me: info [at] grethler [dot] ch
 <h2>Statistics</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grethler&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grethler&layout=compact)](https://github.com/grethler/stats.app)
 <h2>Top Repositories</h2>
 
 <div>
