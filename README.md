@@ -9,6 +9,6 @@
 <h2>Repositories</h2>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grethler&repo=domainer&theme=buefy" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grethler&repo=logly&theme=buefy" />
+  <a href="https://github.com/grethler/domainer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grethler&repo=domainer&theme=buefy" /></a>
+  <a href="https://github.com/grethler/logly"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grethler&repo=logly&theme=buefy" /></a>
 </div>
