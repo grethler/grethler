@@ -5,7 +5,7 @@
 - 📫 How to reach me: info [at] grethler [dot] ch
 <h2>Statistics</h2>
 
-<img align="center" src="https://stats-app-grethler.vercel.app/api/top-langs/?username=grethler&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grethler&layout=compact" />
 
 <h2>Top Repositories</h2>
 
