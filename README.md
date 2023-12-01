@@ -2,3 +2,6 @@
 <h2>Statistics</h2>
 
 <img align="center" href="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delbra1n&layout=compact" />
+
+Website: www [dot] grethler [dot] ch <br/>
+Blog: blog [dot] grethler [dot] ch
